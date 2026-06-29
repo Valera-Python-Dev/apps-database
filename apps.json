@@ -1,0 +1,18 @@
+[
+  {
+    "id": "my_first_game",
+    "title": "Тестовая Игра",
+    "version": "1.0.0",
+    "icon": "https://githubusercontent.com",
+    "description": "Это описание моей первой крутой игры. Тут будут подробности про геймплей!",
+    "apk_url": "https://githubusercontent.com",
+    "screenshots": [
+      "https://githubusercontent.com",
+      "https://githubusercontent.com"
+    ],
+    "reviews": [
+      {"user": "Макс", "rating": "5", "text": "Круто, жду обновлений!"},
+      {"user": "Дмитрий", "rating": "4", "text": "Интерфейс огонь, но добавьте звуки."}
+    ]
+  }
+]
